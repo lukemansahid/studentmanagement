@@ -1,5 +1,5 @@
 jwt:
-  secret: '[a-zA-Z0-9._]^+$Guidelines89797987forAlphabeticalArraNumeralsandOtherSymbo$'
+  secret: '[a-zA-Z0-9._]^+$Guide1629lines89797987forAlphabeticalArraNumeralsandOtherSymbo$'
 
 
 server:
