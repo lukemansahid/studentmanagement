@@ -1,4 +1,4 @@
-package com.lukish.studentmanagement.security.constant;
+package com.lukish.studentmanagement.constant;
 
 public class SecurityConstant {
     public static final long EXPIRATION_TIME = 431_000_000; // 5 days in milliseconds depends on your time
